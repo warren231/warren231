@@ -1,5 +1,6 @@
-### Hi there 👋
+### Warren's User Page
 
+My favorite programming language is SuperCollider :3
 <!--
 **warren231/warren231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
