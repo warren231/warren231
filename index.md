@@ -8,7 +8,7 @@ This is ***WARREN'S*** page.
 
 `command`
 
-[VS Code UI image](screenshots/vscodeui.png)
+[VS Code __UI image__](screenshots/vscodeui.png)
 
 [Check out some wikipedia pages in this section](#wiki-section)
 
@@ -26,7 +26,7 @@ This is ***WARREN'S*** page.
 - [x] Finished task
 - [ ] End the week
 
-## Wiki Section
+## ~~Wiki Section~~
 
 [This is a cool page](https://en.wikipedia.org/wiki/Dashavatara?useskin=vector)
 
