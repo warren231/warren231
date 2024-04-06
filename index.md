@@ -8,7 +8,7 @@ This is ***WARREN'S*** page.
 
 `command`
 
-[VS Code __UI image__](screenshots/vscodeui.png)
+[VS Code _UI image_](screenshots/vscodeui.png)
 
 [Check out some wikipedia pages in this section](#wiki-section)
 
